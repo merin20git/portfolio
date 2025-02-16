@@ -1,3 +1,71 @@
-h1{
-    color: red;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: linear-gradient(white, rgb(192, 197, 195));
+    /* background-image: url("images/pic2.jfif"); */
+
+}
+h4{
+    color: rgb(2, 56, 11);
+}
+h2{
+    color: rgb(49, 13, 37);
+}
+header {
+    background-color: #333333;
+    color: rgb(236, 230, 230);
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+img {
+    width: 200px;  
+    height: 200px; 
+    border-radius: 50%;
+    object-fit: cover; 
+}
+
+
+/* #about img {
+    width: 150px;
+    border-radius: 50%;
+    margin: 20px;
+} */
+
+.project {
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 20px auto;
+    width: 50%;
+    border-radius: 10px;
+}
+
+footer {
+    background-color:  #333;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
