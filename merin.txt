@@ -1,5 +1,43 @@
-day1:date
+day1:
 
-learn
-implement
-challenges
+implement html and css:
+<html> 
+<head> 
+<title> 
+<meta> 
+<link> 
+<body> 
+<header> 
+<nav> 
+<ul>, <li> 
+<a> 
+<section> 
+<h1>, <h2>, <h3>
+<p>
+<img> 
+<div> 
+<footer> 
+
+Selectors:
+body 
+header 
+nav ul li 
+section 
+img 
+.class-name 
+#id-name 
+
+Common CSS Properties:
+background-color 
+background-image 
+color 
+font-family
+text-align 
+margin & padding 
+display: flex; 
+position: fixed; 
+box-shadow 
+hover effects 
+
+challenges faced:
+*Image Not Displaying,navigation Menu Styling Issues,making the Portfolio Responsive
